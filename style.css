@@ -1,0 +1,262 @@
+.screens {
+
+}
+
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #F5F5F5;
+}
+
+.indstil {
+  position: absolute;
+  border-radius: 50%;
+  background-color: #64b1e8;
+  width: 15%;
+  height: 9%;
+  top: 9px;
+  left: 2%;
+}
+
+.linger {
+ position: absolute;
+ top: 20px;
+ left: 4%;
+}
+
+.dagens {
+  position: absolute;
+  left: 83%;
+  top: 10px;
+  border-radius: 50%;
+  background-color: #64b1e8;
+  width: 15%;
+  height: 9%;
+}
+
+.ord {
+  position: absolute;
+  top: 20px;
+  left: 85%;
+}
+
+
+.spil{
+  position: absolute;
+  left: 7%;
+  top: 20%;
+  border-color: black;
+  border-radius: 50%;
+  background-color: #1C7AC7;
+  width: 40%;
+  height: 24%;
+  border-style: solid;
+}
+
+.logo1 {
+  position: absolute;
+  left: 15%;
+  top: 25%;
+}
+
+.tekst1 {
+  position: absolute;
+  top: 42%;
+  left: 23%;
+  font-size: 21px;
+}
+
+.chat {
+  position: absolute;
+  left: 52%;
+  top: 20%;
+  border-color: black;
+  border-radius: 50%;
+  background-color: #64b1e8;
+  width: 40%;
+  height: 24%;
+  border-style: solid;
+}
+
+.logo2 {
+  position: absolute;
+  left: 60%;
+  top: 25%;
+}
+.tekst2 {
+  position: absolute;
+  top: 42%;
+  left: 67%;
+  font-size: 21px;
+}
+
+.leaderboard {
+  position: absolute;
+  left: 7%;
+  top: 50%;
+  border-color: black;
+  border-radius: 50%;
+  background-color: #64b1e8;
+  width: 40%;
+  height: 24%;
+  border-style: solid;
+}
+
+.logo3 {
+  position: absolute;
+  left: 15%;
+  top: 55%;
+}
+.tekst3 {
+  position: absolute;
+  top: 72%;
+  left: 13%;
+
+  font-size: 21px;
+}
+
+.ordbog {
+  position: absolute;
+  left: 52%;
+  top: 50%;
+  border-color: black;
+  border-radius: 50%;
+  background-color: #1C7AC7;
+  width: 40%;
+  height: 24%;
+  border-style: solid;
+}
+
+.logo4 {
+  position: absolute;
+  left: 62%;
+  top: 55%;
+}
+
+.tekst4 {
+  position: absolute;
+  top: 72%;
+  left: 64%;
+
+  font-size: 21px;
+}
+
+.dagensord {
+  position: absolute;
+  background-color: #1C7AC7;
+  border-radius: 24px;
+  width: 70%;
+  height: 8%;
+  top: 20%;
+  left: 15%
+}
+.dagens-ord {
+  position: absolute;
+  top: 15%;
+  left: 25%;
+  font-size: 36px;
+  font-weight: bold;
+  color: #ffffff;
+}
+video {
+  position: absolute;
+  top: 14%;
+  left: 15%;
+}
+
+header {
+  position: relative;
+  height: 115px;
+  background-color: #1C7AC7;
+  border-bottom-left-radius: 40% 40%;
+  border-bottom-right-radius: 40% 40%;
+  margin-bottom: 10px;  
+}
+
+.logomogo {
+  position: absolute;
+  top: 10%;
+  left: 40%;
+}
+
+.tilbage {
+  position: absolute;
+  top: 7%;
+  left: 2%;
+}
+
+.blåtro {
+  position: absolute;
+  top: 20%;
+  left: 33%;
+  opacity: 0.2;
+}
+
+.theblåtro {
+  position: absolute;
+  font-size: 28px;
+  font-weight: bold;
+  top: 22%;
+  left: 28%;
+}
+
+.plads {
+  position: absolute;
+  top: 40%;
+  left: 11%
+}
+
+.dagensfrem {
+  position: absolute;
+  top: 80%;
+  left: 40%;
+}
+
+.spørg {
+  position: absolute;
+  border-color: #1C7AC7;
+  border-style: solid;
+  border-radius: 20px;
+  font-size: 35px;
+  text-align: center;
+  top: 25%;
+  width: 80%;
+  left: 10%;
+}
+
+.spørg1 {
+  position: absolute;
+  text-align: center;
+  font-size: 23px;
+  top: 43%;
+  left: 13%;
+  background-color: #1C7AC7;
+  border-radius: 10px;
+  width: 75%;
+  color: #ffffff;
+}
+
+.spørg2 {
+  position: absolute;
+  position: absolute;
+  text-align: center;
+  font-size: 23px;
+  top: 55%;
+  left: 18%;
+  background-color: #1C7AC7;
+  border-radius: 10px;
+  width: 65%;
+  color: #ffffff;
+}
+
+.spørg3 {
+  position: absolute;
+    text-align: center;
+    font-size: 23px;
+    top: 67%;
+    left: 16%;
+    background-color: #1C7AC7;
+    border-radius: 10px;
+    width: 70%;
+    color: #ffffff;
+}
